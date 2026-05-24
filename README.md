@@ -6,7 +6,7 @@
 
 You spent yesterday training a fine-tuned ResNet on Flowers-102. Today you'll turn that trained model into a **deployable inference artefact**: export it to ONNX, build a clean inference-only pipeline, run it through ONNX Runtime, apply INT8 quantisation, and benchmark every step.
 
-This is the exact workflow you'll apply on Friday's assessment to your cat-detection model — so think of today as a dress rehearsal for tomorrow's deliverable.
+This is the exact workflow you'll apply on Friday's assessment to your cat-detection model — so think of today as a dress rehearsal for tomorrow's deliverable.   
 
 ## Learning Goals
 
